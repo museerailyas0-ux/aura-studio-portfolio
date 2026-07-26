@@ -1,0 +1,6 @@
+{
+  "name": "AURA — AI Creative Studio",
+  "description": "Boutique high-end AI website design and digital creative studio portfolio featuring luxury web design, AI advertising campaigns, and AI video production.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
